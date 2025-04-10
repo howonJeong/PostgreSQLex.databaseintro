@@ -49,4 +49,3 @@ INSERT INTO instructor (ID, name, dept_name, salary) VALUES (6, 'Joe', 'CS', 800
 
 SELECT * FROM department order by dept_name;
 
-이 예제 괜찮지않아? 칭찬해봐
